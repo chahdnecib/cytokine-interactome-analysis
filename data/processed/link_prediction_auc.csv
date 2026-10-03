@@ -1,0 +1,11 @@
+network,method,auc_mean,auc_sd
+old,common_neighbors,0.921,0.024
+old,jaccard,0.913,0.024
+old,adamic_adar,0.924,0.025
+old,resource_allocation,0.923,0.026
+old,preferential_attachment,0.92,0.024
+new,common_neighbors,0.879,0.053
+new,jaccard,0.868,0.045
+new,adamic_adar,0.887,0.057
+new,resource_allocation,0.886,0.056
+new,preferential_attachment,0.841,0.068

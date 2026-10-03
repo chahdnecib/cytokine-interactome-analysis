@@ -1,0 +1,275 @@
+category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description,partition,community,background,members,source
+WikiPathways,WP5549,4,18,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",5.82e-12,1.4e-09,Tryptophan kynurenine pathway in post COVID syndrome,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+KEGG,hsa05332,4,39,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",9.81e-11,9e-09,Graft-versus-host disease,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+WikiPathways,WP1533,4,54,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",3.37e-10,3.24e-08,Vitamin B12 metabolism,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP15,4,85,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",1.94e-09,1.33e-07,Selenium micronutrient network,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP4478,3,19,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.21e-08,5.79e-07,LTF danger signal response pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0061900,4,38,9606,"IFNG,IL1B,IL13,TNF","IFNG,IL1B,IL13,TNF",8.9e-11,1.1e-06,Glial cell activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa01523,3,30,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",4.27e-08,1.21e-06,Antifolate resistance,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0002699,5,267,9606,"IFNG,IL1B,IL13,IL6,TNF","IFNG,IL1B,IL13,IL6,TNF",4.83e-10,1.98e-06,Positive regulation of immune effector process,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0010573,3,6,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",6.59e-10,1.98e-06,Vascular endothelial growth factor production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0032722,4,70,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",9.14e-10,1.98e-06,Positive regulation of chemokine production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0050708,5,270,9606,"IFNG,IL1B,IL13,IL6,TNF","IFNG,IL1B,IL13,IL6,TNF",5.11e-10,1.98e-06,Regulation of protein secretion,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP3617,3,34,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",6.08e-08,2.24e-06,Photodynamic therapy induced NF kB survival signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5474,3,40,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",9.65e-08,3.43e-06,Catabolism of skeletal muscle in cachexia,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0002696,5,369,9606,"IFNG,IL1B,IL13,IL6,TNF","IFNG,IL1B,IL13,IL6,TNF",2.4e-09,4.22e-06,Positive regulation of leukocyte activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0032755,4,96,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",3.11e-09,4.22e-06,Positive regulation of interleukin-6 production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP4008,3,46,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",1.44e-07,4.71e-06,NO cGMP PKG mediated neuroprotection,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5347,3,47,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.53e-07,4.74e-06,IL26 signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP3611,3,50,9606,"IFNG,IL6,TNF","IFNG,IL6,TNF",1.83e-07,5.49e-06,Photodynamic therapy induced AP 1 survival signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0051044,3,16,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",7.59e-09,6.23e-06,Positive regulation of membrane protein ectodomain proteolysis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0048143,3,19,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",1.21e-08,7.84e-06,Astrocyte activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0048660,4,134,9606,"IFNG,IL13,IL6,TNF","IFNG,IL13,IL6,TNF",1.15e-08,7.84e-06,Regulation of smooth muscle cell proliferation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0150078,3,20,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.39e-08,8.35e-06,Positive regulation of neuroinflammatory response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0060252,3,21,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.59e-08,8.49e-06,Positive regulation of glial cell proliferation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0030856,4,156,9606,"IFNG,IL1B,IL13,TNF","IFNG,IL1B,IL13,TNF",2.08e-08,1.02e-05,Regulation of epithelial cell differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002675,3,27,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",3.18e-08,1.3e-05,Positive regulation of acute inflammatory response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5158,3,69,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",4.65e-07,1.31e-05,Urotensin II mediated signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0050796,4,180,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",3.65e-08,1.36e-05,Regulation of insulin secretion,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0001774,3,31,9606,"IFNG,IL13,TNF","IFNG,IL13,TNF",4.68e-08,1.65e-05,Microglial cell activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0045429,3,36,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",7.15e-08,2.2e-05,Positive regulation of nitric oxide biosynthetic process,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0050769,4,226,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",8.96e-08,2.45e-05,Positive regulation of neurogenesis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP615,3,105,9606,"IFNG,IL1B,IL6","IFNG,IL1B,IL6",1.59e-06,3.55e-05,Senescence and autophagy in cancer,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0002703,4,260,9606,"IL1B,IL13,IL6,TNF","IL1B,IL13,IL6,TNF",1.56e-07,3.6e-05,Regulation of leukocyte mediated immunity,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1903039,4,281,9606,"IFNG,IL1B,IL6,TNF","IFNG,IL1B,IL6,TNF",2.12e-07,4.42e-05,Positive regulation of leukocyte cell-cell adhesion,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa04380,3,132,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",3.11e-06,4.76e-05,Osteoclast differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa05418,3,133,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",3.18e-06,4.76e-05,Fluid shear stress and atherosclerosis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0060557,2,2,9606,"IFNG,TNF","IFNG,TNF",3.09e-07,5.77e-05,Positive regulation of vitamin D biosynthetic process,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP4480,2,9,9606,"IL6,TNF","IL6,TNF",2.83e-06,6.04e-05,Altered glycosylation of MUC1 in tumor microenvironment,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+KEGG,hsa04217,3,151,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",4.63e-06,6.07e-05,Necroptosis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa04932,3,154,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",4.91e-06,6.21e-05,Non-alcoholic fatty liver disease,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0032731,3,63,9606,"IFNG,IL6,TNF","IFNG,IL6,TNF",3.57e-07,6.28e-05,Positive regulation of interleukin-1 beta production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0032757,3,64,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",3.74e-07,6.4e-05,Positive regulation of interleukin-8 production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0051251,4,337,9606,"IFNG,IL1B,IL13,IL6","IFNG,IL1B,IL13,IL6",4.35e-07,6.95e-05,Positive regulation of lymphocyte activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5336,2,11,9606,"IFNG,TNF","IFNG,TNF",4.01e-06,8.2e-05,Induction of autophagy and toll like receptor signaling by graphene oxide ,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5414,2,11,9606,"IFNG,TNF","IFNG,TNF",4.01e-06,8.2e-05,IDO metabolic pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5562,2,13,9606,"IFNG,TNF","IFNG,TNF",5.4e-06,0.0001,Celiac disease mechanism and therapies,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0034762,4,398,9606,"IFNG,IL1B,IL13,TNF","IFNG,IL1B,IL13,TNF",8.4e-07,0.00011,Regulation of transmembrane transport,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05130,3,197,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.01e-05,0.00012,Pathogenic Escherichia coli infection,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0046889,3,96,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",1.22e-06,0.00016,Positive regulation of lipid biosynthetic process,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1903829,4,434,9606,"IFNG,IL1B,IL13,TNF","IFNG,IL1B,IL13,TNF",1.18e-06,0.00016,Positive regulation of protein localization,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP4493,2,17,9606,"IL6,TNF","IL6,TNF",8.79e-06,0.00017,Cells and molecules involved in local acute inflammatory response ,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0031622,2,6,9606,"IL1B,TNF","IL1B,TNF",1.44e-06,0.00018,Positive regulation of fever generation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP3287,2,19,9606,"IL6,TNF","IL6,TNF",1.08e-05,0.00019,Overview of nanoparticle effects,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+KEGG,hsa05132,3,246,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.96e-05,0.0002,Salmonella infection,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0050830,3,113,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.97e-06,0.00023,Defense response to Gram-positive bacterium,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP4482,2,21,9606,"IL6,TNF","IL6,TNF",1.3e-05,0.00023,Vitamin D in inflammatory diseases,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5046,2,21,9606,"IL1B,IL6","IL1B,IL6",1.3e-05,0.00023,NAD metabolism in oncogene induced senescence and mitochondrial dysfunction associated senescence,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0097191,3,117,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",2.18e-06,0.00024,Extrinsic apoptotic signaling pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP3599,2,22,9606,"IL6,TNF","IL6,TNF",1.42e-05,0.00024,Transcription factor regulation in adipogenesis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5576,2,22,9606,"IFNG,TNF","IFNG,TNF",1.42e-05,0.00024,Killer cell immunoglobulin like receptors and human leukocyte antigen C pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5580,2,22,9606,"IFNG,TNF","IFNG,TNF",1.42e-05,0.00024,HLA C allotypes interactions with KIR on dNK cells,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+KEGG,hsa05020,3,268,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",2.52e-05,0.00025,Prion disease,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+WikiPathways,WP5272,2,23,9606,"IL1B,IL6","IL1B,IL6",1.54e-05,0.00025,LDL influence on CD14 and TLR4,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP2865,2,24,9606,"IFNG,IL1B","IFNG,IL1B",1.67e-05,0.00026,IL1 and megakaryocytes in obesity,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5044,2,24,9606,"IFNG,TNF","IFNG,TNF",1.67e-05,0.00026,Kynurenine pathway and links to cell senescence,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0002718,3,126,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",2.72e-06,0.00028,Regulation of cytokine production involved in immune response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002824,3,128,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",2.84e-06,0.00029,Positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5183,2,26,9606,"IL6,TNF","IL6,TNF",1.94e-05,0.0003,SARS CoV 2 mitochondrial chronic oxidative stress and endothelial dysfunction,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0002708,3,133,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",3.18e-06,0.00031,Positive regulation of lymphocyte mediated immunity,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5092,2,27,9606,"IFNG,TNF","IFNG,TNF",2.09e-05,0.00031,Interactions of natural killer cells in pancreatic cancer,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0050768,3,135,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",3.33e-06,0.00032,Negative regulation of neurogenesis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1900222,2,10,9606,"IFNG,TNF","IFNG,TNF",3.4e-06,0.00032,Negative regulation of amyloid-beta clearance,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP2059,3,260,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",2.3e-05,0.00033,Alzheimer 39 s disease and miRNA effects,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP3851,2,28,9606,"IL6,TNF","IL6,TNF",2.23e-05,0.00033,TLR4 signaling and tolerance,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP4969,2,28,9606,"IL1B,TNF","IL1B,TNF",2.23e-05,0.00033,RAS and bradykinin pathways in COVID 19,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5124,3,260,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",2.3e-05,0.00033,Alzheimer 39 s disease,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP4304,2,30,9606,"IL1B,TNF","IL1B,TNF",2.55e-05,0.00035,Oligodendrocyte specification and differentiation leading to myelin components for CNS,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP727,2,32,9606,"IL1B,TNF","IL1B,TNF",2.88e-05,0.00039,Monoamine transport,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:1905952,3,154,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",4.91e-06,0.00042,Regulation of lipid localization,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0062013,3,156,9606,"IFNG,IL1B,TNF","IFNG,IL1B,TNF",5.1e-06,0.00043,Positive regulation of small molecule metabolic process,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5358,2,34,9606,"IFNG,IL6","IFNG,IL6",3.23e-05,0.00043,JAK STAT signaling in the regulation of beta cells,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0034116,2,13,9606,"IL1B,TNF","IL1B,TNF",5.4e-06,0.00045,Positive regulation of heterotypic cell-cell adhesion,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP4329,2,37,9606,"IL6,TNF","IL6,TNF",3.8e-05,0.00049,miRNA role in immune response in sepsis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP619,2,37,9606,"IFNG,IL1B","IFNG,IL1B",3.8e-05,0.00049,Type II interferon signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0090594,2,14,9606,"IL6,TNF","IL6,TNF",6.17e-06,0.0005,Inflammatory response to wounding,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05010,3,379,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",7.02e-05,0.00064,Alzheimer disease,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:1903140,2,17,9606,"IL1B,TNF","IL1B,TNF",8.79e-06,0.00069,Regulation of establishment of endothelial barrier,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0010829,2,19,9606,"IL1B,TNF","IL1B,TNF",1.08e-05,0.0008,Negative regulation of D-glucose transmembrane transport,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1902004,2,19,9606,"IFNG,TNF","IFNG,TNF",1.08e-05,0.0008,Positive regulation of amyloid-beta formation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5477,2,49,9606,"IL6,TNF","IL6,TNF",6.54e-05,0.0008,Molecular pathway for oxidative stress,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0001934,3,206,9606,"IFNG,IL6,TNF","IFNG,IL6,TNF",1.16e-05,0.00082,Positive regulation of protein phosphorylation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002281,2,20,9606,"IFNG,TNF","IFNG,TNF",1.19e-05,0.00084,Macrophage activation involved in immune response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0010744,2,20,9606,"IL1B,TNF","IL1B,TNF",1.19e-05,0.00084,Positive regulation of macrophage derived foam cell differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0010888,2,20,9606,"IL6,TNF","IL6,TNF",1.19e-05,0.00084,Negative regulation of lipid storage,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0033138,2,20,9606,"IFNG,IL6","IFNG,IL6",1.19e-05,0.00084,Positive regulation of peptidyl-serine phosphorylation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002366,3,212,9606,"IFNG,IL6,TNF","IFNG,IL6,TNF",1.26e-05,0.00087,Leukocyte activation involved in immune response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002922,2,22,9606,"IL1B,TNF","IL1B,TNF",1.42e-05,0.00094,Positive regulation of humoral immune response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP560,2,54,9606,"IFNG,TNF","IFNG,TNF",7.89e-05,0.00095,TGF beta receptor signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP2849,2,55,9606,"IL1B,IL6","IL1B,IL6",8.18e-05,0.00097,Hematopoietic stem cell differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0009612,3,226,9606,"IL1B,IL13,TNF","IL1B,IL13,TNF",1.52e-05,0.00099,Response to mechanical stimulus,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0006959,3,230,9606,"IFNG,IL6,TNF","IFNG,IL6,TNF",1.6e-05,0.001,Humoral immune response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1904996,2,24,9606,"IL6,TNF","IL6,TNF",1.67e-05,0.0011,Positive regulation of leukocyte adhesion to vascular endothelial cell,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa04612,2,69,9606,"IFNG,TNF","IFNG,TNF",0.00013,0.0011,Antigen processing and presentation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa05022,3,468,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",0.00013,0.0011,Pathways of neurodegeneration - multiple diseases,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+WikiPathways,WP4816,2,58,9606,"IFNG,TNF","IFNG,TNF",9.06e-05,0.0011,TGF beta receptor signaling in skeletal dysplasias,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5222,2,60,9606,"IL1B,IL6","IL1B,IL6",9.68e-05,0.0011,2q13 copy number variation syndrome,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0050900,3,246,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",1.96e-05,0.0012,Leukocyte migration,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002726,2,28,9606,"IL1B,IL6","IL1B,IL6",2.23e-05,0.0013,Positive regulation of T cell cytokine production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0050995,2,28,9606,"IL1B,TNF","IL1B,TNF",2.23e-05,0.0013,Negative regulation of lipid catabolic process,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0051222,3,253,9606,"IL1B,IL13,TNF","IL1B,IL13,TNF",2.13e-05,0.0013,Positive regulation of protein transport,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1900017,2,27,9606,"IL6,TNF","IL6,TNF",2.09e-05,0.0013,Positive regulation of cytokine production involved in inflammatory response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0050870,3,259,9606,"IFNG,IL1B,IL6","IFNG,IL1B,IL6",2.28e-05,0.0014,Positive regulation of T cell activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0010575,2,30,9606,"IL1B,IL6","IL1B,IL6",2.55e-05,0.0015,Positive regulation of vascular endothelial growth factor production,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa04623,2,82,9606,"IL1B,IL6","IL1B,IL6",0.00018,0.0015,Cytosolic DNA-sensing pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+WikiPathways,WP4655,2,73,9606,"IL1B,IL6","IL1B,IL6",0.00014,0.0016,Cytosolic DNA sensing pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:1901889,2,35,9606,"IL1B,TNF","IL1B,TNF",3.42e-05,0.0018,Negative regulation of cell junction assembly,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:2001240,2,34,9606,"IL1B,TNF","IL1B,TNF",3.23e-05,0.0018,Negative regulation of extrinsic apoptotic signaling pathway in absence of ligand,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1903532,3,310,9606,"IFNG,IL1B,IL13","IFNG,IL1B,IL13",3.88e-05,0.002,Positive regulation of secretion by cell,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05322,2,102,9606,"IFNG,TNF","IFNG,TNF",0.00027,0.002,Systemic lupus erythematosus,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa05410,2,99,9606,"IL6,TNF","IL6,TNF",0.00026,0.002,Hypertrophic cardiomyopathy,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa04064,2,104,9606,"IL1B,TNF","IL1B,TNF",0.00028,0.0021,NF-kappa B signaling pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0006953,2,40,9606,"IL1B,IL6","IL1B,IL6",4.42e-05,0.0022,Acute-phase response,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa04066,2,108,9606,"IFNG,IL6","IFNG,IL6",0.00031,0.0022,HIF-1 signaling pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa04350,2,109,9606,"IFNG,TNF","IFNG,TNF",0.00031,0.0022,TGF-beta signaling pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+KEGG,hsa04931,2,108,9606,"IL6,TNF","IL6,TNF",0.00031,0.0022,Insulin resistance,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+RCTM,HSA-9942503,2,12,9606,"IFNG,TNF","IFNG,TNF",4.68e-06,0.0023,Differentiation of naive CD+ T cells to T helper 1 cells (Th1 cells),filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",Reactome
+Process,GO:0071214,3,332,9606,"IL1B,IL13,TNF","IL1B,IL13,TNF",4.75e-05,0.0024,Cellular response to abiotic stimulus,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0043457,2,44,9606,"IFNG,TNF","IFNG,TNF",5.31e-05,0.0025,Regulation of cellular respiration,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0030857,2,46,9606,"IFNG,IL13","IFNG,IL13",5.78e-05,0.0027,Negative regulation of epithelial cell differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0045840,2,46,9606,"IL1B,TNF","IL1B,TNF",5.78e-05,0.0027,Positive regulation of mitotic nuclear division,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa04650,2,125,9606,"IFNG,TNF","IFNG,TNF",0.00041,0.0027,Natural killer cell mediated cytotoxicity,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0035094,2,47,9606,"IL13,TNF","IL13,TNF",6.03e-05,0.0028,Response to nicotine,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0050731,2,47,9606,"IFNG,IL6","IFNG,IL6",6.03e-05,0.0028,Positive regulation of peptidyl-tyrosine phosphorylation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0010718,2,55,9606,"IL1B,IL6","IL1B,IL6",8.18e-05,0.0036,Positive regulation of epithelial to mesenchymal transition,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0045599,2,57,9606,"IL6,TNF","IL6,TNF",8.76e-05,0.0039,Negative regulation of fat cell differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5470,2,119,9606,"IL1B,IL6","IL1B,IL6",0.00037,0.0039,Effect of omega 3 PUFA on Huntington 39 s disease pathways,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0007254,2,58,9606,"IL1B,TNF","IL1B,TNF",9.06e-05,0.004,JNK cascade,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0043030,2,58,9606,"IL13,IL6","IL13,IL6",9.06e-05,0.004,Regulation of macrophage activation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05160,2,159,9606,"IFNG,TNF","IFNG,TNF",0.00065,0.0041,Hepatitis C,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0007159,2,60,9606,"IL1B,TNF","IL1B,TNF",9.68e-05,0.0042,Leukocyte cell-cell adhesion,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05161,2,161,9606,"IL6,TNF","IL6,TNF",0.00067,0.0042,Hepatitis B,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0002521,3,431,9606,"IFNG,IL6,TNF","IFNG,IL6,TNF",0.0001,0.0044,Leukocyte differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1903078,2,63,9606,"IFNG,TNF","IFNG,TNF",0.00011,0.0045,Positive regulation of protein localization to plasma membrane,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP236,2,130,9606,"IL6,TNF","IL6,TNF",0.00044,0.0046,Adipogenesis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0043410,3,449,9606,"IL1B,IL6,TNF","IL1B,IL6,TNF",0.00012,0.0049,Positive regulation of MAPK cascade,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5224,2,135,9606,"IL1B,TNF","IL1B,TNF",0.00047,0.0049,2q37 copy number variation syndrome,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0032890,2,70,9606,"IL1B,TNF","IL1B,TNF",0.00013,0.0054,Regulation of organic acid transport,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP4666,2,150,9606,"IL6,TNF","IL6,TNF",0.00058,0.0059,Hepatitis B infection,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0071260,2,76,9606,"IL1B,IL13","IL1B,IL13",0.00015,0.0061,Cellular response to mechanical stimulus,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05169,2,201,9606,"IL6,TNF","IL6,TNF",0.001,0.0063,Epstein-Barr virus infection,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0098586,2,78,9606,"IFNG,IL6","IFNG,IL6",0.00016,0.0064,Cellular response to virus,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP289,2,156,9606,"IL1B,IL6","IL1B,IL6",0.00063,0.0064,Myometrial relaxation and contraction pathways,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP5381,2,156,9606,"IL1B,TNF","IL1B,TNF",0.00063,0.0064,Smith Magenis and Potocki Lupski syndrome copy number variation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0014823,2,83,9606,"IL6,TNF","IL6,TNF",0.00018,0.0071,Response to activity,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0045921,2,86,9606,"IFNG,IL13","IFNG,IL13",0.0002,0.0074,Positive regulation of exocytosis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05166,2,219,9606,"IL6,TNF","IL6,TNF",0.0012,0.0074,Human T-cell leukemia virus 1 infection,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0071346,2,87,9606,"IFNG,TNF","IFNG,TNF",0.0002,0.0076,Cellular response to type II interferon,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa05131,2,235,9606,"IL1B,TNF","IL1B,TNF",0.0014,0.0083,Shigellosis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0046330,2,99,9606,"IL1B,TNF","IL1B,TNF",0.00026,0.0094,Positive regulation of JNK cascade,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0022612,2,108,9606,"IL6,TNF","IL6,TNF",0.00031,0.0109,Gland morphogenesis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:1904064,2,113,9606,"IFNG,IL13","IFNG,IL13",0.00033,0.0117,Positive regulation of cation transmembrane transport,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+KEGG,hsa04010,2,297,9606,"IL1B,TNF","IL1B,TNF",0.0022,0.013,MAPK signaling pathway,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",KEGG
+Process,GO:0045727,2,129,9606,"IL6,TNF","IL6,TNF",0.00043,0.0148,Positive regulation of translation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP382,2,245,9606,"IL1B,TNF","IL1B,TNF",0.0015,0.0151,MAPK signaling,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0045667,2,132,9606,"IL6,TNF","IL6,TNF",0.00045,0.0154,Regulation of osteoblast differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0097529,2,132,9606,"IL1B,IL6","IL1B,IL6",0.00045,0.0154,Myeloid leukocyte migration,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0045471,2,137,9606,"IL13,TNF","IL13,TNF",0.00049,0.0163,Response to ethanol,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0030595,2,141,9606,"IL1B,IL6","IL1B,IL6",0.00052,0.0171,Leukocyte chemotaxis,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002687,2,149,9606,"IL6,TNF","IL6,TNF",0.00057,0.0189,Positive regulation of leukocyte migration,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0002573,2,164,9606,"IFNG,TNF","IFNG,TNF",0.00069,0.0224,Myeloid leukocyte differentiation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0051048,2,166,9606,"IL1B,TNF","IL1B,TNF",0.00071,0.0228,Negative regulation of secretion,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0009743,2,173,9606,"IL1B,TNF","IL1B,TNF",0.00077,0.0246,Response to carbohydrate,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0070374,2,186,9606,"IL1B,TNF","IL1B,TNF",0.00089,0.0278,Positive regulation of ERK1 and ERK2 cascade,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0050673,2,190,9606,"IL6,TNF","IL6,TNF",0.00093,0.0286,Epithelial cell proliferation,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+Process,GO:0051897,2,197,9606,"IL1B,TNF","IL1B,TNF",0.00099,0.0306,Positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5420,2,369,9606,"IFNG,TNF","IFNG,TNF",0.0034,0.0334,ADHD and autism ASD pathways,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+Process,GO:0043123,2,225,9606,"IL1B,TNF","IL1B,TNF",0.0013,0.0381,Positive regulation of canonical NF-kappaB signal transduction,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",GO Process
+WikiPathways,WP5087,2,434,9606,"IL1B,IL6","IL1B,IL6",0.0047,0.0453,Pleural mesothelioma,filtered,0,genome,"IFNG, IL13, IL1B, IL6, TNF",WikiPathways
+WikiPathways,WP453,3,30,9606,"IL2,IL4,IL5","IL2,IL4,IL5",4.27e-08,4.66e-06,Inflammatory response pathway,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",WikiPathways
+KEGG,hsa05320,3,51,9606,"IL2,IL4,IL5","IL2,IL4,IL5",1.94e-07,1.02e-05,Autoimmune thyroid disease,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",KEGG
+Function,GO:0008083,4,159,9606,"IL2,IL4,IL5,IL9","IL2,IL4,IL5,IL9",2.24e-08,2.3e-05,Growth factor activity,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Function
+Function,GO:0070851,4,138,9606,"IL2,IL4,IL5,IL9","IL2,IL4,IL5,IL9",1.29e-08,2.3e-05,Growth factor receptor binding,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Function
+RCTM,HSA-451927,3,44,9606,"IL2,IL5,IL9","IL2,IL5,IL9",1.27e-07,0.0001,Interleukin-2 family signaling,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",Reactome
+Process,GO:1902107,4,198,9606,"IL2,IL4,IL5,IL17A","IL2,IL4,IL5,IL17A",5.32e-08,0.00022,Positive regulation of leukocyte differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0030890,3,46,9606,"IL2,IL4,IL5","IL2,IL4,IL5",1.44e-07,0.00025,Positive regulation of B cell proliferation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+WikiPathways,WP5538,2,22,9606,"IL4,IL5","IL4,IL5",1.42e-05,0.00085,Atopic dermatitis mechanism and therapies,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",WikiPathways
+Process,GO:0002761,3,127,9606,"IL4,IL5,IL17A","IL4,IL5,IL17A",2.78e-06,0.0016,Regulation of myeloid leukocyte differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0048304,2,11,9606,"IL2,IL4","IL2,IL4",4.01e-06,0.0021,Positive regulation of isotype switching to IgG isotypes,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0050728,3,179,9606,"IL2,IL4,IL17A","IL2,IL4,IL17A",7.65e-06,0.003,Negative regulation of inflammatory response,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0030098,3,290,9606,"IL2,IL4,IL9","IL2,IL4,IL9",3.18e-05,0.0087,Lymphocyte differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+RCTM,HSA-912526,2,27,9606,"IL2,IL5","IL2,IL5",2.09e-05,0.0103,Interleukin receptor SHC signaling,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",Reactome
+Process,GO:0002250,3,380,9606,"IL2,IL9,IL17A","IL2,IL9,IL17A",7.08e-05,0.0156,Adaptive immune response,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0002763,2,63,9606,"IL5,IL17A","IL5,IL17A",0.00011,0.0198,Positive regulation of myeloid leukocyte differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0046425,2,69,9606,"IL5,IL9","IL5,IL9",0.00013,0.0227,Regulation of receptor signaling pathway via JAK-STAT,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0097696,2,74,9606,"IL2,IL4","IL2,IL4",0.00015,0.0256,Cell surface receptor signaling pathway via STAT,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0045670,2,75,9606,"IL4,IL17A","IL4,IL17A",0.00015,0.0259,Regulation of osteoclast differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:1902106,2,112,9606,"IL2,IL4","IL2,IL4",0.00033,0.0454,Negative regulation of leukocyte differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0030183,2,120,9606,"IL4,IL9","IL4,IL9",0.00038,0.0492,B cell differentiation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0046651,2,120,9606,"IL2,IL9","IL2,IL9",0.00038,0.0492,Lymphocyte proliferation,filtered,1,genome,"IL17A, IL2, IL4, IL5, IL9",GO Process
+Process,GO:0034115,2,9,9606,"IL1RN,IL10","IL1RN,IL10",1.7e-06,0.0042,Negative regulation of heterotypic cell-cell adhesion,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+Process,GO:0022408,3,201,9606,"TGFB1,IL1RN,IL10","TGFB1,IL1RN,IL10",4.34e-06,0.0062,Negative regulation of cell-cell adhesion,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+KEGG,hsa04068,2,129,9606,"TGFB1,IL10","TGFB1,IL10",0.00026,0.0099,FoxO signaling pathway,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",KEGG
+Process,GO:0031348,3,272,9606,"TGFB1,IL10,IL22","TGFB1,IL10,IL22",1.06e-05,0.0119,Negative regulation of defense response,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+KEGG,hsa04148,2,156,9606,"TGFB1,IL10","TGFB1,IL10",0.00038,0.0127,Efferocytosis,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",KEGG
+Process,GO:0002719,2,34,9606,"TGFB1,IL10","TGFB1,IL10",1.94e-05,0.0159,Negative regulation of cytokine production involved in immune response,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+Process,GO:0045191,2,39,9606,"TGFB1,IL10","TGFB1,IL10",2.53e-05,0.0195,Regulation of isotype switching,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+Process,GO:0032102,3,399,9606,"TGFB1,IL10,IL22","TGFB1,IL10,IL22",3.32e-05,0.0236,Negative regulation of response to external stimulus,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+Process,GO:1904894,2,47,9606,"TGFB1,IL10","TGFB1,IL10",3.62e-05,0.0236,Positive regulation of receptor signaling pathway via STAT,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+RCTM,HSA-5663202,3,451,9606,"TGFB1,IL10,IL22","TGFB1,IL10,IL22",4.78e-05,0.0296,Diseases of signal transduction by growth factor receptors and second messengers,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",Reactome
+Process,GO:0042130,2,76,9606,"TGFB1,IL10","TGFB1,IL10",9.24e-05,0.0355,Negative regulation of T cell proliferation,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+Process,GO:0032642,2,92,9606,"TGFB1,IL10","TGFB1,IL10",0.00013,0.0426,Regulation of chemokine production,filtered,2,genome,"IL10, IL1RN, IL22, TGFB1",GO Process
+Function,GO:0008009,4,49,9606,"CCL2,CCL11,CXCL10,CXCL8","CCL2,CCL11,CXCL10,CXCL8",4.66e-11,1.67e-07,Chemokine activity,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Function
+RCTM,HSA-380108,4,57,9606,"CCL2,CCL11,CXCL10,CXCL8","CCL2,CCL11,CXCL10,CXCL8",8.31e-11,2.06e-07,Chemokine receptors bind chemokines,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",Reactome
+KEGG,hsa04062,4,190,9606,"CCL2,CCL11,CXCL10,CXCL8","CCL2,CCL11,CXCL10,CXCL8",9.11e-09,1.11e-06,Chemokine signaling pathway,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",KEGG
+Process,GO:0071621,4,76,9606,"CCL2,CCL11,CXCL10,CXCL8","CCL2,CCL11,CXCL10,CXCL8",2.52e-10,3.1e-06,Granulocyte chemotaxis,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0070098,3,79,9606,"CCL2,CCL11,CXCL10","CCL2,CCL11,CXCL10",2.77e-07,0.00034,Chemokine-mediated signaling pathway,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0061844,3,87,9606,"CCL2,CCL11,CXCL8","CCL2,CCL11,CXCL8",3.67e-07,0.00041,Antimicrobial humoral immune response mediated by antimicrobial peptide,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+WikiPathways,WP5284,2,26,9606,"CCL2,CXCL10","CCL2,CXCL10",1.17e-05,0.0008,Cell interactions in pancreatic cancer microenvironment,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",WikiPathways
+WikiPathways,WP4559,2,28,9606,"CCL2,CXCL10","CCL2,CXCL10",1.34e-05,0.00086,Interactions between immune cells and microRNAs in tumor microenvironment,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",WikiPathways
+Function,GO:0045236,2,17,9606,"CXCL10,CXCL8","CXCL10,CXCL8",5.28e-06,0.0021,CXCR chemokine receptor binding,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Function
+Process,GO:0048245,2,19,9606,"CCL2,CCL11","CCL2,CCL11",6.48e-06,0.0023,Eosinophil chemotaxis,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:1901623,2,24,9606,"CCL2,CXCL10","CCL2,CXCL10",1e-05,0.003,Regulation of lymphocyte chemotaxis,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+RCTM,HSA-380994,2,27,9606,"CCL2,CXCL8","CCL2,CXCL8",1.25e-05,0.0031,ATF4 activates genes in response to endoplasmic reticulum  stress,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",Reactome
+Process,GO:0072678,2,35,9606,"CCL2,CXCL10","CCL2,CXCL10",2.05e-05,0.0053,T cell migration,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+WikiPathways,WP5287,2,98,9606,"CCL2,CCL11","CCL2,CCL11",0.00015,0.0063,17q12 copy number variation syndrome,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",WikiPathways
+Function,GO:0042056,2,38,9606,"CCL2,CXCL10","CCL2,CXCL10",2.41e-05,0.0078,Chemoattractant activity,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Function
+Process,GO:0071622,2,52,9606,"CCL2,CXCL8","CCL2,CXCL8",4.41e-05,0.0095,Regulation of granulocyte chemotaxis,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Function,GO:0048020,2,44,9606,"CCL2,CCL11","CCL2,CCL11",3.19e-05,0.0095,CCR chemokine receptor binding,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Function
+Process,GO:0030593,2,56,9606,"CXCL10,CXCL8","CXCL10,CXCL8",5.09e-05,0.0106,Neutrophil chemotaxis,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+WikiPathways,WP3929,2,165,9606,"CCL11,CXCL10","CCL11,CXCL10",0.00042,0.0156,Chemokine signaling,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",WikiPathways
+Process,GO:0071347,2,76,9606,"CCL2,CXCL8","CCL2,CXCL8",9.24e-05,0.0179,Cellular response to interleukin-1,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0044344,2,87,9606,"CCL2,CXCL8","CCL2,CXCL8",0.00012,0.0218,Cellular response to fibroblast growth factor stimulus,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0071677,2,95,9606,"CCL2,CXCL10","CCL2,CXCL10",0.00014,0.0252,Positive regulation of mononuclear cell migration,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0051928,2,97,9606,"CCL2,CXCL10","CCL2,CXCL10",0.00015,0.0253,Positive regulation of calcium ion transport,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0001936,2,132,9606,"CCL2,CCL11","CCL2,CCL11",0.00027,0.0431,Regulation of endothelial cell proliferation,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0008360,2,137,9606,"CCL2,CCL11","CCL2,CCL11",0.00029,0.0458,Regulation of cell shape,filtered,3,genome,"CCL11, CCL2, CXCL10, CXCL8",GO Process
+Process,GO:0051135,3,9,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",1.73e-10,2.13e-06,Positive regulation of NK T cell activation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0032816,3,25,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",2.57e-09,1.06e-05,Positive regulation of natural killer cell activation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0001916,3,37,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",7.75e-09,2.39e-05,Positive regulation of T cell mediated cytotoxicity,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+RCTM,HSA-447115,3,56,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",2.55e-08,6.32e-05,Interleukin-12 family signaling,filtered,4,genome,"IL12A, IL12B, IL23A",Reactome
+Component,GO:0043514,2,2,9606,"IL12B,IL12A","IL12B,IL12A",9.27e-08,0.00016,interleukin-12 complex,filtered,4,genome,"IL12A, IL12B, IL23A",GO Component
+Component,GO:0070743,2,2,9606,"IL23A,IL12B","IL23A,IL12B",9.27e-08,0.00016,interleukin-23 complex,filtered,4,genome,"IL12A, IL12B, IL23A",GO Component
+Process,GO:0002860,2,6,9606,"IL12B,IL12A","IL12B,IL12A",4.33e-07,0.00025,Positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0051142,2,6,9606,"IL23A,IL12B","IL23A,IL12B",4.33e-07,0.00025,Positive regulation of NK T cell proliferation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:1903588,2,7,9606,"IL12B,IL12A","IL12B,IL12A",5.56e-07,0.00026,Negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:2000330,2,8,9606,"IL23A,IL12B","IL23A,IL12B",6.95e-07,0.00029,Positive regulation of T-helper 17 cell lineage commitment,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Function,GO:0019972,2,2,9606,"IL12B,IL12A","IL12B,IL12A",9.27e-08,0.00033,interleukin-12 binding,filtered,4,genome,"IL12A, IL12B, IL23A",GO Function
+Function,GO:0045519,2,2,9606,"IL23A,IL12B","IL23A,IL12B",9.27e-08,0.00033,interleukin-23 receptor binding,filtered,4,genome,"IL12A, IL12B, IL23A",GO Function
+Process,GO:0035722,2,9,9606,"IL12B,IL12A","IL12B,IL12A",8.5e-07,0.00034,interleukin-12-mediated signaling pathway,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0043382,2,9,9606,"IL23A,IL12B","IL23A,IL12B",8.5e-07,0.00034,Positive regulation of memory T cell differentiation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Function,GO:0005143,2,5,9606,"IL12B,IL12A","IL12B,IL12A",3.25e-07,0.00039,interleukin-12 receptor binding,filtered,4,genome,"IL12A, IL12B, IL23A",GO Function
+Process,GO:0034105,2,11,9606,"IL23A,IL12B","IL23A,IL12B",1.21e-06,0.0004,Positive regulation of tissue remodeling,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0032819,2,12,9606,"IL23A,IL12B","IL23A,IL12B",1.41e-06,0.00043,Positive regulation of natural killer cell proliferation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:1900747,2,13,9606,"IL12B,IL12A","IL12B,IL12A",1.62e-06,0.00044,Negative regulation of vascular endothelial growth factor signaling pathway,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Component,GO:0031906,2,9,9606,"IL12B,IL12A","IL12B,IL12A",8.5e-07,0.0005,Late endosome lumen,filtered,4,genome,"IL12A, IL12B, IL23A",GO Component
+Process,GO:0032700,2,15,9606,"IL12B,IL12A","IL12B,IL12A",2.1e-06,0.00054,Negative regulation of interleukin-17 production,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0032725,2,15,9606,"IL23A,IL12B","IL23A,IL12B",2.1e-06,0.00054,Positive regulation of granulocyte macrophage colony-stimulating factor production,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0034393,2,15,9606,"IL12B,IL12A","IL12B,IL12A",2.1e-06,0.00054,Positive regulation of smooth muscle cell apoptotic process,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0002827,2,18,9606,"IL23A,IL12B","IL23A,IL12B",2.94e-06,0.00058,Positive regulation of T-helper 1 type immune response,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0042742,3,299,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",3.57e-06,0.00068,Defense response to bacterium,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+RCTM,HSA-9020933,2,9,9606,"IL23A,IL12B","IL23A,IL12B",8.5e-07,0.0007,Interleukin-23 signaling,filtered,4,genome,"IL12A, IL12B, IL23A",Reactome
+Process,GO:0010224,2,21,9606,"IL12B,IL12A","IL12B,IL12A",3.91e-06,0.00072,Response to UV-B,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0032693,2,21,9606,"IL23A,IL12B","IL23A,IL12B",3.91e-06,0.00072,Negative regulation of interleukin-10 production,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0042104,2,26,9606,"IL23A,IL12B","IL23A,IL12B",5.84e-06,0.001,Positive regulation of activated T cell proliferation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0032740,2,28,9606,"IL23A,IL12B","IL23A,IL12B",6.72e-06,0.0011,Positive regulation of interleukin-17 production,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0002230,2,30,9606,"IL23A,IL12B","IL23A,IL12B",7.66e-06,0.0012,Positive regulation of defense response to virus by host,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0009615,3,394,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",8.12e-06,0.0012,Response to virus,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0031349,3,453,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",1.23e-05,0.0016,Positive regulation of defense response,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0032735,2,42,9606,"IL23A,IL12B","IL23A,IL12B",1.46e-05,0.0019,Positive regulation of interleukin-12 production,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Component,GO:0005788,3,326,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",4.61e-06,0.002,Endoplasmic reticulum lumen,filtered,4,genome,"IL12A, IL12B, IL23A",GO Component
+Process,GO:0048662,2,49,9606,"IL12B,IL12A","IL12B,IL12A",1.97e-05,0.0022,Negative regulation of smooth muscle cell proliferation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0050709,2,69,9606,"IL12B,IL12A","IL12B,IL12A",3.83e-05,0.0038,Negative regulation of protein secretion,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0042098,2,79,9606,"IL23A,IL12B","IL23A,IL12B",4.99e-05,0.0047,T cell proliferation,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+Process,GO:0050829,2,91,9606,"IL23A,IL12B","IL23A,IL12B",6.59e-05,0.006,Defense response to Gram-negative bacterium,filtered,4,genome,"IL12A, IL12B, IL23A",GO Process
+RCTM,HSA-9020591,2,46,9606,"IL12B,IL12A","IL12B,IL12A",1.74e-05,0.0083,Interleukin-12 signaling,filtered,4,genome,"IL12A, IL12B, IL23A",Reactome
