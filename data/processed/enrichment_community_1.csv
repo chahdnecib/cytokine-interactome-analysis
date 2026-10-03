@@ -1,0 +1,358 @@
+category,term,number_of_genes,number_of_genes_in_background,ncbiTaxonId,inputGenes,preferredNames,p_value,fdr,description
+COMPARTMENTS,GOCC:0070743,6,15,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",4.67e-18,1.07e-14,interleukin-23 complex
+COMPARTMENTS,GOCC:0043514,5,24,9606,"IFNG,IL12B,IL12A,IL10,IL17A","IFNG,IL12B,IL12A,IL10,IL17A",1.01e-13,1.16e-10,interleukin-12 complex
+COMPARTMENTS,GOCC:0070744,4,8,9606,"IFNG,IL10,IL22,IL17A","IFNG,IL10,IL22,IL17A",2.76e-12,2.11e-09,interleukin-27 complex
+COMPARTMENTS,GOCC:0005615,7,1027,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",1.07e-09,6.18e-07,Extracellular space
+COMPARTMENTS,GOCC:0099126,3,20,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",4.85e-08,2.23e-05,Transforming growth factor beta complex
+COMPARTMENTS,GOCC:0043235,5,425,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",9.79e-08,3.76e-05,Receptor complex
+COMPARTMENTS,GOCC:0098802,4,255,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",9.89e-07,0.00028,Plasma membrane signaling receptor complex
+COMPARTMENTS,GOCC:0042022,2,7,9606,"IL12B,IL12A","IL12B,IL12A",3.89e-06,0.00099,interleukin-12 receptor complex
+COMPARTMENTS,GOCC:0072536,2,7,9606,"IL23A,IL12B","IL23A,IL12B",3.89e-06,0.00099,interleukin-23 receptor complex
+COMPARTMENTS,GOCC:0031906,2,9,9606,"IL12B,IL12A","IL12B,IL12A",5.94e-06,0.0012,Late endosome lumen
+COMPARTMENTS,GOCC:0071735,2,14,9606,"IFNG,IL10","IFNG,IL10",1.29e-05,0.0022,IgG immunoglobulin complex
+COMPARTMENTS,GOCC:0071742,2,13,9606,"IFNG,IL10","IFNG,IL10",1.13e-05,0.0022,IgE immunoglobulin complex
+COMPARTMENTS,GOCC:0071745,2,13,9606,"IFNG,IL10","IFNG,IL10",1.13e-05,0.0022,IgA immunoglobulin complex
+COMPARTMENTS,GOCC:0071159,2,26,9606,"IFNG,IL10","IFNG,IL10",4.07e-05,0.0059,NF-kappaB complex
+COMPARTMENTS,GOCC:0032991,7,5325,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",0.00011,0.0122,Protein-containing complex
+Process,GO:0032655,5,64,9606,"IL23A,IFNG,IL12B,IL10,IL17A","IL23A,IFNG,IL12B,IL10,IL17A",9.48e-12,1.49e-07,Regulation of interleukin-12 production
+Process,GO:0002699,6,264,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",4.33e-11,3.4e-07,Positive regulation of immune effector process
+Process,GO:0045672,4,26,9606,"IL23A,IFNG,IL12B,IL17A","IL23A,IFNG,IL12B,IL17A",1.52e-10,7.96e-07,Positive regulation of osteoclast differentiation
+Process,GO:0001819,6,482,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",1.53e-09,2.59e-06,Positive regulation of cytokine production
+Process,GO:0032660,4,41,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",8.26e-10,2.59e-06,Regulation of interleukin-17 production
+Process,GO:0032680,5,164,9606,"IL23A,IFNG,IL12B,IL10,IL17A","IL23A,IFNG,IL12B,IL10,IL17A",9.06e-10,2.59e-06,Regulation of tumor necrosis factor production
+Process,GO:0032735,4,43,9606,"IL23A,IFNG,IL12B,IL17A","IL23A,IFNG,IL12B,IL17A",9.89e-10,2.59e-06,Positive regulation of interleukin-12 production
+Process,GO:0046427,4,45,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",1.17e-09,2.59e-06,Positive regulation of receptor signaling pathway via JAK-STAT
+Process,GO:0048662,4,53,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",2.19e-09,2.59e-06,Negative regulation of smooth muscle cell proliferation
+Process,GO:0050778,6,502,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",1.95e-09,2.59e-06,Positive regulation of immune response
+Process,GO:1902107,5,181,9606,"IL23A,IFNG,IL12B,IL10,IL17A","IL23A,IFNG,IL12B,IL10,IL17A",1.47e-09,2.59e-06,Positive regulation of leukocyte differentiation
+Process,GO:0031343,4,64,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",4.5e-09,4.15e-06,Positive regulation of cell killing
+Process,GO:0042531,4,65,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",4.78e-09,4.16e-06,Positive regulation of tyrosine phosphorylation of STAT protein
+Process,GO:0046635,4,71,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",6.71e-09,5.26e-06,Positive regulation of alpha-beta T cell activation
+Process,GO:0031347,6,638,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",8.11e-09,5.85e-06,Regulation of defense response
+Process,GO:0051142,3,10,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",7.84e-09,5.85e-06,Positive regulation of NK T cell proliferation
+Process,GO:0006952,7,1394,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",9.05e-09,6.17e-06,Defense response
+Process,GO:0034393,3,12,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",1.25e-08,6.98e-06,Positive regulation of smooth muscle cell apoptotic process
+Process,GO:0001818,5,284,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",1.34e-08,7.27e-06,Negative regulation of cytokine production
+Process,GO:0032819,3,13,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",1.53e-08,7.76e-06,Positive regulation of natural killer cell proliferation
+Process,GO:0031349,5,296,9606,"IL23A,IFNG,IL12B,IL12A,IL17A","IL23A,IFNG,IL12B,IL12A,IL17A",1.65e-08,7.83e-06,Positive regulation of defense response
+Process,GO:0042742,5,306,9606,"IL23A,IL12B,IL12A,IL10,IL17A","IL23A,IL12B,IL12A,IL10,IL17A",1.94e-08,8.95e-06,Defense response to bacterium
+Process,GO:0032700,3,15,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",2.23e-08,9.73e-06,Negative regulation of interleukin-17 production
+Process,GO:0022409,5,322,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",2.49e-08,1e-05,Positive regulation of cell-cell adhesion
+Process,GO:0032760,4,101,9606,"IL23A,IFNG,IL12B,IL17A","IL23A,IFNG,IL12B,IL17A",2.63e-08,1.01e-05,Positive regulation of tumor necrosis factor production
+Process,GO:0051251,5,336,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",3.08e-08,1.12e-05,Positive regulation of lymphocyte activation
+Process,GO:1903037,5,368,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",4.82e-08,1.61e-05,Regulation of leukocyte cell-cell adhesion
+Process,GO:0032649,4,120,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",5.15e-08,1.68e-05,Regulation of interferon-gamma production
+Process,GO:0050863,5,376,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",5.35e-08,1.68e-05,Regulation of T cell activation
+Process,GO:0045621,4,129,9606,"IL23A,IFNG,IL12B,IL10","IL23A,IFNG,IL12B,IL10",6.83e-08,2.02e-05,Positive regulation of lymphocyte differentiation
+Process,GO:0032101,6,964,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",9.4e-08,2.54e-05,Regulation of response to external stimulus
+Process,GO:0098542,6,989,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",1.09e-07,2.86e-05,Defense response to other organism
+Process,GO:0001916,3,28,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",1.23e-07,3.16e-05,Positive regulation of T cell mediated cytotoxicity
+Process,GO:0032103,5,453,9606,"IL23A,IFNG,IL12B,IL12A,IL17A","IL23A,IFNG,IL12B,IL12A,IL17A",1.34e-07,3.34e-05,Positive regulation of response to external stimulus
+Process,GO:0043372,3,33,9606,"IL23A,IFNG,IL12B","IL23A,IFNG,IL12B",1.95e-07,4.56e-05,"Positive regulation of CD4-positive, alpha-beta T cell differentiation"
+Process,GO:0002706,4,176,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",2.31e-07,5.32e-05,Regulation of lymphocyte mediated immunity
+Process,GO:0002822,4,179,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",2.46e-07,5.52e-05,Regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains
+Process,GO:0042129,4,187,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",2.93e-07,6.37e-05,Regulation of T cell proliferation
+Process,GO:0006954,5,538,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.13e-07,6.72e-05,Inflammatory response
+Process,GO:0006955,6,1321,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",6.09e-07,0.00012,Immune response
+Process,GO:0001775,5,693,9606,"IL23A,IFNG,IL12B,IL10,IL17A","IL23A,IFNG,IL12B,IL10,IL17A",1.09e-06,0.00017,Cell activation
+Process,GO:2000330,2,4,9606,"IL23A,IL12B","IL23A,IL12B",1.62e-06,0.00024,Positive regulation of T-helper 17 cell lineage commitment
+Process,GO:0032729,3,78,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",2.31e-06,0.00033,Positive regulation of interferon-gamma production
+Process,GO:0002860,2,6,9606,"IL12B,IL12A","IL12B,IL12A",3.03e-06,0.00043,Positive regulation of natural killer cell mediated cytotoxicity directed against tumor cell target
+Process,GO:0009615,4,356,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",3.67e-06,0.0005,Response to virus
+Process,GO:0002831,4,361,9606,"IL23A,IL12B,IL12A,IL17A","IL23A,IL12B,IL12A,IL17A",3.88e-06,0.00052,Regulation of response to biotic stimulus
+Process,GO:0010536,2,7,9606,"IL23A,IL12B","IL23A,IL12B",3.89e-06,0.00052,Positive regulation of activation of Janus kinase activity
+Process,GO:0032747,2,7,9606,"IFNG,IL17A","IFNG,IL17A",3.89e-06,0.00052,Positive regulation of interleukin-23 production
+Process,GO:1903588,2,7,9606,"IL12B,IL12A","IL12B,IL12A",3.89e-06,0.00052,Negative regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis
+Process,GO:0032642,3,96,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",4.24e-06,0.00053,Regulation of chemokine production
+Process,GO:0050727,4,371,9606,"IL23A,IFNG,IL12B,IL10","IL23A,IFNG,IL12B,IL10",4.32e-06,0.00054,Regulation of inflammatory response
+Process,GO:0050829,3,97,9606,"IL23A,IL12B,IL17A","IL23A,IL12B,IL17A",4.37e-06,0.00054,Defense response to Gram-negative bacterium
+Process,GO:0008284,5,945,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",4.99e-06,0.0006,Positive regulation of cell population proliferation
+Process,GO:0043382,2,9,9606,"IL23A,IL12B","IL23A,IL12B",5.94e-06,0.00071,Positive regulation of memory T cell differentiation
+Process,GO:0032652,3,113,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",6.84e-06,0.00079,Regulation of interleukin-1 production
+Process,GO:0034105,2,11,9606,"IL23A,IL12B","IL23A,IL12B",8.42e-06,0.00093,Positive regulation of tissue remodeling
+Process,GO:1900747,2,11,9606,"IL12B,IL12A","IL12B,IL12A",8.42e-06,0.00093,Negative regulation of vascular endothelial growth factor signaling pathway
+Process,GO:0046651,3,124,9606,"IL23A,IL12B,IL10","IL23A,IL12B,IL10",8.98e-06,0.00098,Lymphocyte proliferation
+Process,GO:0001936,3,138,9606,"IL12B,IL12A,IL10","IL12B,IL12A,IL10",1.23e-05,0.0013,Regulation of endothelial cell proliferation
+Process,GO:0032675,3,151,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.6e-05,0.0015,Regulation of interleukin-6 production
+Process,GO:0032725,2,15,9606,"IL23A,IL12B","IL23A,IL12B",1.47e-05,0.0015,Positive regulation of granulocyte macrophage colony-stimulating factor production
+Process,GO:0043065,4,507,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",1.47e-05,0.0015,Positive regulation of apoptotic process
+Process,GO:0045348,2,15,9606,"IFNG,IL10","IFNG,IL10",1.47e-05,0.0015,Positive regulation of MHC class II biosynthetic process
+Process,GO:0050729,3,145,9606,"IL23A,IFNG,IL12B","IL23A,IFNG,IL12B",1.42e-05,0.0015,Positive regulation of inflammatory response
+Process,GO:0010224,2,17,9606,"IL12B,IL12A","IL12B,IL12A",1.84e-05,0.0018,Response to UV-B
+Process,GO:0002827,2,19,9606,"IL23A,IL12B","IL23A,IL12B",2.26e-05,0.0021,Positive regulation of T-helper 1 type immune response
+Process,GO:0045321,4,574,9606,"IL23A,IFNG,IL12B,IL10","IL23A,IFNG,IL12B,IL10",2.39e-05,0.0022,Leukocyte activation
+Process,GO:0032693,2,21,9606,"IL23A,IL12B","IL23A,IL12B",2.73e-05,0.0024,Negative regulation of interleukin-10 production
+Process,GO:0002833,3,187,9606,"IL12B,IL12A,IL17A","IL12B,IL12A,IL17A",3e-05,0.0026,Positive regulation of response to biotic stimulus
+Process,GO:0051043,2,25,9606,"IFNG,IL10","IFNG,IL10",3.78e-05,0.0032,Regulation of membrane protein ectodomain proteolysis
+Process,GO:0010033,6,2692,9606,"IFNG,IL12B,IL12A,IL10,IL22,IL17A","IFNG,IL12B,IL12A,IL10,IL22,IL17A",4.05e-05,0.0034,Response to organic substance
+Process,GO:0002862,2,27,9606,"IL12B,IL10","IL12B,IL10",4.37e-05,0.0037,Negative regulation of inflammatory response to antigenic stimulus
+Process,GO:0042832,2,27,9606,"IL12B,IL10","IL12B,IL10",4.37e-05,0.0037,Defense response to protozoan
+Process,GO:0032740,2,28,9606,"IL23A,IL12B","IL23A,IL12B",4.68e-05,0.0038,Positive regulation of interleukin-17 production
+Process,GO:0042104,2,28,9606,"IL23A,IL12B","IL23A,IL12B",4.68e-05,0.0038,Positive regulation of activated T cell proliferation
+Process,GO:0002230,2,34,9606,"IL23A,IL12B","IL23A,IL12B",6.78e-05,0.0053,Positive regulation of defense response to virus by host
+Process,GO:0045087,4,754,9606,"IL23A,IFNG,IL12B,IL17A","IL23A,IFNG,IL12B,IL17A",6.93e-05,0.0054,Innate immune response
+Process,GO:0050708,3,250,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",7.05e-05,0.0055,Regulation of protein secretion
+Process,GO:0051607,3,252,9606,"IL23A,IFNG,IL12B","IL23A,IFNG,IL12B",7.21e-05,0.0056,Defense response to virus
+Process,GO:0032733,2,40,9606,"IL23A,IL12B","IL23A,IL12B",9.25e-05,0.007,Positive regulation of interleukin-10 production
+Process,GO:0031325,6,3114,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",9.49e-05,0.0071,Positive regulation of cellular metabolic process
+Process,GO:0033993,4,827,9606,"IL12B,IL12A,IL10,IL22","IL12B,IL12A,IL10,IL22",9.92e-05,0.0073,Response to lipid
+Process,GO:0051173,6,3166,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",0.0001,0.0076,Positive regulation of nitrogen compound metabolic process
+Process,GO:2000273,2,47,9606,"IFNG,IL10","IFNG,IL10",0.00013,0.009,Positive regulation of signaling receptor activity
+Process,GO:0032496,3,314,9606,"IL12B,IL12A,IL10","IL12B,IL12A,IL10",0.00014,0.0098,Response to lipopolysaccharide
+Process,GO:0016477,4,903,9606,"IL12B,IL12A,IL10,IL17A","IL12B,IL12A,IL10,IL17A",0.00014,0.0099,Cell migration
+Process,GO:0045428,2,59,9606,"IFNG,IL10","IFNG,IL10",0.0002,0.0135,Regulation of nitric oxide biosynthetic process
+Process,GO:0002250,3,359,9606,"IFNG,IL12B,IL17A","IFNG,IL12B,IL17A",0.0002,0.0139,Adaptive immune response
+Process,GO:0032731,2,61,9606,"IFNG,IL17A","IFNG,IL17A",0.00021,0.0142,Positive regulation of interleukin-1 beta production
+Process,GO:0050709,2,62,9606,"IL12B,IL12A","IL12B,IL12A",0.00022,0.0146,Negative regulation of protein secretion
+Process,GO:0019221,3,369,9606,"IFNG,IL12B,IL17A","IFNG,IL12B,IL17A",0.00022,0.0148,Cytokine-mediated signaling pathway
+Process,GO:0006915,4,1041,9606,"IFNG,IL12A,IL10,IL17A","IFNG,IL12A,IL10,IL17A",0.00024,0.016,Apoptotic process
+Process,GO:1901224,2,67,9606,"IL23A,IL12B","IL23A,IL12B",0.00025,0.0165,Positive regulation of NIK/NF-kappaB signaling
+Process,GO:0002521,3,396,9606,"IFNG,IL12B,IL10","IFNG,IL12B,IL10",0.00027,0.0177,Leukocyte differentiation
+Process,GO:0032722,2,71,9606,"IFNG,IL17A","IFNG,IL17A",0.00028,0.0183,Positive regulation of chemokine production
+Process,GO:0042098,2,72,9606,"IL23A,IL12B","IL23A,IL12B",0.00029,0.0186,T cell proliferation
+Process,GO:0045860,3,416,9606,"IL23A,IFNG,IL12B","IL23A,IFNG,IL12B",0.00031,0.0199,Positive regulation of protein kinase activity
+Process,GO:0098586,2,87,9606,"IFNG,IL12A","IFNG,IL12A",0.00042,0.0257,Cellular response to virus
+Process,GO:0032755,2,98,9606,"IFNG,IL17A","IFNG,IL17A",0.00053,0.0319,Positive regulation of interleukin-6 production
+Process,GO:0002690,2,99,9606,"IL23A,IL12A","IL23A,IL12A",0.00054,0.0324,Positive regulation of leukocyte chemotaxis
+Process,GO:0071346,2,105,9606,"IFNG,IL12B","IFNG,IL12B",0.0006,0.0357,Cellular response to interferon-gamma
+Process,GO:0030335,3,529,9606,"IL23A,IFNG,IL12A","IL23A,IFNG,IL12A",0.00063,0.0371,Positive regulation of cell migration
+Process,GO:0051246,5,2622,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",0.0007,0.0407,Regulation of protein metabolic process
+Process,GO:0097191,2,113,9606,"IFNG,IL12A","IFNG,IL12A",0.0007,0.0407,Extrinsic apoptotic signaling pathway
+Component,GO:0043514,2,2,9606,"IL12B,IL12A","IL12B,IL12A",6.49e-07,0.0013,interleukin-12 complex
+Component,GO:0070743,2,2,9606,"IL23A,IL12B","IL23A,IL12B",6.49e-07,0.0013,interleukin-23 complex
+Component,GO:0005615,7,3247,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",3.33e-06,0.0023,Extracellular space
+Component,GO:0031906,2,9,9606,"IL12B,IL12A","IL12B,IL12A",5.94e-06,0.0023,Late endosome lumen
+Component,GO:0042022,2,7,9606,"IL12B,IL12A","IL12B,IL12A",3.89e-06,0.0023,interleukin-12 receptor complex
+Component,GO:0072536,2,7,9606,"IL23A,IL12B","IL23A,IL12B",3.89e-06,0.0023,interleukin-23 receptor complex
+Component,GO:0098802,3,194,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",3.34e-05,0.0086,Plasma membrane signaling receptor complex
+Component,GO:0005788,3,312,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",0.00014,0.0276,Endoplasmic reticulum lumen
+Function,GO:0005125,7,234,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",3.75e-14,1.85e-10,Cytokine activity
+Function,GO:0005126,6,270,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22","IL23A,IFNG,IL12B,IL12A,IL10,IL22",4.95e-11,4.88e-08,Cytokine receptor binding
+Function,GO:0019972,2,2,9606,"IL12B,IL12A","IL12B,IL12A",6.49e-07,0.0004,interleukin-12 binding
+Function,GO:0005143,2,3,9606,"IL12B,IL12A","IL12B,IL12A",1.08e-06,0.00059,interleukin-12 receptor binding
+Function,GO:0070851,3,135,9606,"IL12B,IL12A,IL10","IL12B,IL12A,IL10",1.15e-05,0.0057,Growth factor receptor binding
+TISSUES,BTO:0002330,4,8,9606,"IFNG,IL10,IL22,IL17A","IFNG,IL10,IL22,IL17A",2.76e-12,6.68e-09,Lamina propria
+TISSUES,BTO:0002417,4,28,9606,"IFNG,IL10,IL22,IL17A","IFNG,IL10,IL22,IL17A",2e-10,2.42e-07,Helper T-lymphocyte
+TISSUES,BTO:0001678,3,6,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",2.3e-09,1.86e-06,Th1 cell
+TISSUES,BTO:0000767,3,7,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",3.29e-09,2e-06,Mesenteric lymph node
+TISSUES,BTO:0005607,3,7,9606,"IFNG,IL22,IL17A","IFNG,IL22,IL17A",3.29e-09,2e-06,Gamma delta T-lymphocyte
+TISSUES,BTO:0005655,3,9,9606,"IFNG,IL22,IL17A","IFNG,IL22,IL17A",6.03e-09,2.44e-06,Th17 cell
+TISSUES,BTO:0001598,3,13,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.53e-08,4.65e-06,Splenocyte
+TISSUES,BTO:0003861,3,14,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.86e-08,4.65e-06,Inflammatory cell
+TISSUES,BTO:0005871,3,13,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.53e-08,4.65e-06,Naive T-lymphocyte
+TISSUES,BTO:0004520,3,15,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",2.23e-08,4.93e-06,Regulatory T-lymphocyte
+TISSUES,BTO:0000062,2,3,9606,"IFNG,IL10","IFNG,IL10",1.08e-06,0.0002,Amastigote
+TISSUES,BTO:0000546,2,3,9606,"IL10,IL17A","IL10,IL17A",1.08e-06,0.0002,Gut mucosa
+TISSUES,BTO:0000545,3,69,9606,"IL10,IL22,IL17A","IL10,IL22,IL17A",1.62e-06,0.00025,Gut
+TISSUES,BTO:0001034,2,6,9606,"IFNG,IL10","IFNG,IL10",3.03e-06,0.00041,Peritoneal macrophage
+TISSUES,BTO:0006111,2,8,9606,"IFNG,IL10","IFNG,IL10",4.86e-06,0.00059,M2 macrophage
+TISSUES,BTO:0006110,2,9,9606,"IFNG,IL10","IFNG,IL10",5.94e-06,0.00069,M1 macrophage
+TISSUES,BTO:0002332,2,14,9606,"IFNG,IL10","IFNG,IL10",1.29e-05,0.0013,Monocytic leukemia cell line
+TISSUES,BTO:0002278,2,16,9606,"IFNG,IL10","IFNG,IL10",1.65e-05,0.0015,Macrophage cell line
+TISSUES,BTO:0001281,4,540,9606,"IL23A,IFNG,IL10,IL17A","IL23A,IFNG,IL10,IL17A",1.88e-05,0.0017,Spleen
+TISSUES,BTO:0001043,2,21,9606,"IFNG,IL10","IFNG,IL10",2.73e-05,0.0024,Adult
+TISSUES,BTO:0000753,5,1600,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.51e-05,0.005,Lymphoid tissue
+TISSUES,BTO:0001025,2,34,9606,"IFNG,IL10","IFNG,IL10",6.78e-05,0.005,Peripheral blood mononuclear cell
+TISSUES,BTO:0000130,2,42,9606,"IFNG,IL10","IFNG,IL10",0.0001,0.0068,Neutrophil
+TISSUES,BTO:0001493,4,1014,9606,"IL23A,IFNG,IL10,IL17A","IL23A,IFNG,IL10,IL17A",0.00022,0.0136,Trunk
+TISSUES,BTO:0002042,2,110,9606,"IFNG,IL10","IFNG,IL10",0.00066,0.0372,Dendritic cell
+DISEASES,DOID:0060032,6,200,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",8.42e-12,3.87e-08,Autoimmune disease of musculoskeletal system
+DISEASES,DOID:0060039,5,97,9606,"IL23A,IFNG,IL12B,IL22,IL17A","IL23A,IFNG,IL12B,IL22,IL17A",7.01e-11,1.61e-07,Autoimmune disease of skin and connective tissue
+DISEASES,DOID:37,6,518,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",2.35e-09,2.16e-06,Skin disease
+DISEASES,DOID:0050589,4,58,9606,"IFNG,IL12B,IL10,IL17A","IFNG,IL12B,IL10,IL17A",3.09e-09,2.36e-06,Inflammatory bowel disease
+DISEASES,DOID:640,3,13,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.53e-08,7.83e-06,Encephalomyelitis
+DISEASES,DOID:65,6,774,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",2.55e-08,1.17e-05,Connective tissue disease
+DISEASES,DOID:2377,3,19,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",4.21e-08,1.76e-05,Multiple sclerosis
+DISEASES,DOID:0060180,3,27,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.11e-07,3.92e-05,Colitis
+DISEASES,DOID:8893,3,29,9606,"IL23A,IL22,IL17A","IL23A,IL22,IL17A",1.36e-07,4.45e-05,Psoriasis
+DISEASES,DOID:1176,3,53,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",7.55e-07,0.00018,Bronchial disease
+DISEASES,DOID:9111,2,4,9606,"IFNG,IL10","IFNG,IL10",1.62e-06,0.00037,Cutaneous leishmaniasis
+DISEASES,DOID:1205,3,72,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",1.83e-06,0.0004,Allergic disease
+DISEASES,DOID:9146,2,5,9606,"IFNG,IL10","IFNG,IL10",2.27e-06,0.00047,Visceral leishmaniasis
+DISEASES,DOID:614,2,9,9606,"IFNG,IL10","IFNG,IL10",5.94e-06,0.0011,Lymphopenia
+DISEASES,DOID:9415,2,10,9606,"IFNG,IL17A","IFNG,IL17A",7.13e-06,0.0013,Allergic asthma
+DISEASES,DOID:848,3,118,9606,"IL12B,IL10,IL17A","IL12B,IL10,IL17A",7.76e-06,0.0014,Arthritis
+DISEASES,DOID:9008,2,11,9606,"IL12B,IL17A","IL12B,IL17A",8.42e-06,0.0014,Psoriatic arthritis
+DISEASES,DOID:0080001,4,540,9606,"IFNG,IL12B,IL10,IL17A","IFNG,IL12B,IL10,IL17A",1.88e-05,0.0026,Bone disease
+DISEASES,DOID:0080600,2,16,9606,"IFNG,IL10","IFNG,IL10",1.65e-05,0.0026,COVID-19
+DISEASES,DOID:11162,2,17,9606,"IFNG,IL10","IFNG,IL10",1.84e-05,0.0026,Respiratory failure
+DISEASES,DOID:399,2,16,9606,"IFNG,IL10","IFNG,IL10",1.65e-05,0.0026,Tuberculosis
+DISEASES,DOID:8469,2,16,9606,"IFNG,IL10","IFNG,IL10",1.65e-05,0.0026,Influenza
+DISEASES,DOID:8577,2,16,9606,"IFNG,IL10","IFNG,IL10",1.65e-05,0.0026,Ulcerative colitis
+DISEASES,DOID:7147,2,20,9606,"IL12B,IL17A","IL12B,IL17A",2.49e-05,0.0031,Ankylosing spondylitis
+DISEASES,DOID:0060051,2,25,9606,"IL10,IL17A","IL10,IL17A",3.78e-05,0.0041,Autoimmune disease of cardiovascular system
+DISEASES,DOID:0060496,2,25,9606,"IFNG,IL17A","IFNG,IL17A",3.78e-05,0.0041,Respiratory allergy
+DISEASES,DOID:552,2,24,9606,"IFNG,IL10","IFNG,IL10",3.5e-05,0.0041,Pneumonia
+DISEASES,DOID:8778,2,24,9606,"IL12B,IL10","IL12B,IL10",3.5e-05,0.0041,Crohns disease
+DISEASES,DOID:2473,2,27,9606,"IFNG,IL17A","IFNG,IL17A",4.37e-05,0.0046,Opportunistic mycosis
+DISEASES,DOID:883,2,32,9606,"IFNG,IL10","IFNG,IL10",6.04e-05,0.006,Parasitic helminthiasis infectious disease
+DISEASES,DOID:0050117,3,368,9606,"IFNG,IL10,IL17A","IFNG,IL10,IL17A",0.00022,0.019,Disease by infectious agent
+Keyword,KW-0202,7,187,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",8.04e-15,5.4e-12,Cytokine
+Keyword,KW-0964,7,1839,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",6.27e-08,2.11e-05,Secreted
+Keyword,KW-0732,7,3277,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",3.55e-06,0.0008,Signal
+Keyword,KW-1015,6,3338,9606,"IL23A,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IL12B,IL12A,IL10,IL22,IL17A",0.00014,0.0239,Disulfide bond
+KEGG,hsa05321,7,59,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",3.41e-18,1.14e-15,Inflammatory bowel disease
+KEGG,hsa04060,7,282,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",1.36e-13,2.28e-11,Cytokine-cytokine receptor interaction
+KEGG,hsa04630,6,158,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22","IL23A,IFNG,IL12B,IL12A,IL10,IL22",2.11e-12,2.36e-10,JAK-STAT signaling pathway
+KEGG,hsa05143,4,36,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",5.07e-10,3.44e-08,African trypanosomiasis
+KEGG,hsa05330,4,34,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",4.1e-10,3.44e-08,Allograft rejection
+KEGG,hsa05152,5,165,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",9.33e-10,5.22e-08,Tuberculosis
+KEGG,hsa05140,4,69,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",6.01e-09,2.89e-07,Leishmaniasis
+KEGG,hsa05133,4,73,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",7.47e-09,3.14e-07,Pertussis
+KEGG,hsa04625,4,101,9606,"IL23A,IL12B,IL12A,IL10","IL23A,IL12B,IL12A,IL10",2.63e-08,8.39e-07,C-type lectin receptor signaling pathway
+KEGG,hsa04659,4,99,9606,"IL23A,IFNG,IL22,IL17A","IL23A,IFNG,IL22,IL17A",2.43e-08,8.39e-07,Th17 cell differentiation
+KEGG,hsa05142,4,97,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",2.25e-08,8.39e-07,Chagas disease
+KEGG,hsa05145,4,103,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",2.84e-08,8.39e-07,Toxoplasmosis
+KEGG,hsa05146,4,101,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",2.63e-08,8.39e-07,Amoebiasis
+KEGG,hsa04940,3,38,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",2.91e-07,6.98e-06,Type I diabetes mellitus
+KEGG,hsa05144,3,46,9606,"IFNG,IL12A,IL10","IFNG,IL12A,IL10",5.02e-07,1.12e-05,Malaria
+KEGG,hsa05323,3,83,9606,"IL23A,IFNG,IL17A","IL23A,IFNG,IL17A",2.77e-06,5.82e-05,Rheumatoid arthritis
+KEGG,hsa04658,3,85,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",2.97e-06,5.88e-05,Th1 and Th2 cell differentiation
+KEGG,hsa05200,4,515,9606,"IL23A,IFNG,IL12B,IL12A","IL23A,IFNG,IL12B,IL12A",1.56e-05,0.00029,Pathways in cancer
+KEGG,hsa05164,3,163,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",2e-05,0.00035,Influenza A
+KEGG,hsa05134,2,55,9606,"IL12B,IL12A","IL12B,IL12A",0.00017,0.0029,Legionellosis
+KEGG,hsa04622,2,69,9606,"IL12B,IL12A","IL12B,IL12A",0.00027,0.0043,RIG-I-like receptor signaling pathway
+KEGG,hsa04657,2,91,9606,"IFNG,IL17A","IFNG,IL17A",0.00046,0.007,IL-17 signaling pathway
+KEGG,hsa05168,3,478,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",0.00047,0.007,Herpes simplex virus 1 infection
+KEGG,hsa05322,2,94,9606,"IFNG,IL10","IFNG,IL10",0.00049,0.007,Systemic lupus erythematosus
+KEGG,hsa04620,2,100,9606,"IL12B,IL12A","IL12B,IL12A",0.00055,0.0074,Toll-like receptor signaling pathway
+KEGG,hsa04660,2,100,9606,"IFNG,IL10","IFNG,IL10",0.00055,0.0074,T cell receptor signaling pathway
+KEGG,hsa05162,2,137,9606,"IL12B,IL12A","IL12B,IL12A",0.001,0.0126,Measles
+InterPro,IPR009079,5,56,9606,"IL23A,IFNG,IL12A,IL10,IL22","IL23A,IFNG,IL12A,IL10,IL22",5.02e-12,3.61e-08,"Four-helical cytokine-like, core"
+InterPro,IPR020423,2,6,9606,"IL10,IL22","IL10,IL22",3.03e-06,0.0109,"Interleukin-10, conserved site"
+PMID,PMID:37587493,5,10,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.55e-15,3.45e-09,(2023) Effect of guselkumab on serum biomarkers in patients with active psoriatic arthritis and inadequate response to tumor necrosis factor inhibitors: results from the COSMOS phase 3b study.
+PMID,PMID:37615438,5,7,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.72e-16,3.45e-09,(2023) The interplay between Epstein-Barr virus DNA and gut microbiota in the development of arthritis in a mouse model.
+PMID,PMID:32998371,6,50,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",2.79e-15,3.45e-09,(2020) IL-12 and IL-23-Close Relatives with Structural Homologies but Distinct Immunological Functions.
+PMID,PMID:33268961,5,9,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.7e-15,3.45e-09,(2020) Lactobacillus bulgaricus inhibits colitis-associated cancer via a negative regulation of intestinal inflammation in azoxymethanedextran sodium sulfate model.
+PMID,PMID:24441101,5,7,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.72e-16,3.45e-09,(2014) Cytokine effects induced by the human autoallergen alpha-NAC.
+PMID,PMID:31443406,6,54,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",4.3e-15,3.69e-09,(2019) Immunoregulatory Functions of the IL-12 Family of Cytokines in Antiviral Systems.
+PMID,PMID:31831764,5,12,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.24e-15,3.85e-09,"(2019) The IL17F His161Arg polymorphism, a potential risk locus for psoriasis, increases serum levels of interleukin-17F in an Asian population."
+PMID,PMID:27429795,5,12,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.24e-15,3.85e-09,"(2016) The Role of IL-23, IL-22, and IL-18 in Campylobacter Jejuni Infection of Conventional Infant Mice."
+PMID,PMID:27141315,5,13,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",7.26e-15,4.15e-09,(2016) Intestinal Expression of Genes Encoding Inflammatory Mediators and Gelatinases During Arcobacter Butzleri Infection of Gnotobiotic Il-10 Deficient Mice.
+PMID,PMID:27322540,5,13,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",7.26e-15,4.15e-09,(2016) Interleukin-18 Mediates Immune Responses to Campylobacter jejuni Infection in Gnotobiotic Mice.
+PMID,PMID:37371676,5,16,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.72e-14,4.61e-09,(2023) Using the Microbiome as a Regenerative Medicine Strategy for Autoimmune Diseases.
+PMID,PMID:37663384,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2023) A promising impact of oral administration of noscapine against imiquimod-induced psoriasis-like skin lesions.
+PMID,PMID:35497929,5,15,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.31e-14,4.61e-09,"(2022) Topical Formulation of Noscapine, a Benzylisoquinoline Alkaloid, Ameliorates Imiquimod-Induced Psoriasis-Like Skin Lesions."
+PMID,PMID:36248203,5,16,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.72e-14,4.61e-09,(2022) Cytokine Modulators in Plaque Psoriasis - A Review of Current and Prospective Biologic Therapeutic Approaches.
+PMID,PMID:33446013,5,20,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",4.5e-14,4.61e-09,(2021) MicroRNA-146a-5p enhances T helper 17 cell differentiation via decreasing a disintegrin and metalloprotease 17 level in primary sjoegrens syndrome.
+PMID,PMID:33853474,6,74,9606,"IL23A,IFNG,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12A,IL10,IL22,IL17A",2.58e-14,4.61e-09,(2021) WLSwntless is essential in controlling dendritic cell homeostasis via a WNT signaling-independent mechanism.
+PMID,PMID:33968012,6,64,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",1.13e-14,4.61e-09,(2021) miRNAs Alter T Helper 17 Cell Fate in the Pathogenesis of Autoimmune Diseases.
+PMID,PMID:34179741,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(2021) Distinct roles of interleukin-17 and T helper 17 cells among autoimmune diseases.
+PMID,PMID:34884474,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2021) Multifaceted Analysis of IL-23A- andor EBI3-Including Cytokines Produced by Psoriatic Keratinocytes.
+PMID,PMID:31958753,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2020) MicroRNA-127 Promotes Anti-microbial Host Defense through Restricting A20-Mediated De-ubiquitination of STAT3.
+PMID,PMID:32697038,5,20,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",4.5e-14,4.61e-09,(2020) A murine cellular model of necroinflammation displays RAGE-dependent cytokine induction that connects to hepatoma cell injury.
+PMID,PMID:33408595,6,65,9606,"IL23A,IFNG,IL12B,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL10,IL22,IL17A",1.23e-14,4.61e-09,(2020) Immunology of IL-12: An update on functional activities and implications for disease.
+PMID,PMID:31206517,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2019) Flagellin hypervariable region determines symbiotic properties of commensal Escherichia coli strains.
+PMID,PMID:29910818,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2018) Potential Immunological Links Between Psoriasis and Cardiovascular Disease.
+PMID,PMID:30774807,5,20,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",4.5e-14,4.61e-09,"(2018) Evaluation of IL-12A, IL-12B, IL-23A and IL-27 mRNA expression level genes in peripheral mononuclear cells of inflammatory bowel disease patients in an Iranian population."
+PMID,PMID:28593439,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2017) Clinical and Histopathological Amelioration of Experimental Autoimmune Encephalomyelitis by AAV Vectors Expressing a Soluble Interleukin-23 Receptor.
+PMID,PMID:28752081,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,(2017) Absence of Nucleotide-Oligomerization-Domain-2 Is Associated with Less Distinct Disease in Campylobacter jejuni Infected Secondary Abiotic IL-10 Deficient Mice.
+PMID,PMID:28769538,5,15,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.31e-14,4.61e-09,"(2017) Cytokine Kinetics in Febrile Neutropenic Children: Insights on the Usefulness as Sepsis Biomarkers, Influence of Filgrastim, and Behavior of the IL-23IL-17 Pathway."
+PMID,PMID:29085578,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2017) Investigation of the relationship between the Th17IL-23 pathway and innate-adaptive immune system in TNBS-induced colitis in rats.
+PMID,PMID:27141316,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,(2016) Toll-Like Receptor-4 Dependent Intestinal Gene Expression During Arcobacter Butzleri Infection of Gnotobiotic Il-10 Deficient Mice.
+PMID,PMID:27429796,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,(2016) Colonic Expression of Genes Encoding Inflammatory Mediators and Gelatinases During Campylobacter Jejuni Infection of Conventional Infant Mice.
+PMID,PMID:27790217,5,20,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",4.5e-14,4.61e-09,(2016) Cholinergic Stimulation Prevents the Development of Autoimmune Diabetes: Evidence for the Modulation of Th17 Effector Cells via an IFNgamma-Dependent Mechanism.
+PMID,PMID:27833449,5,16,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.72e-14,4.61e-09,(2016) The relationship between the immune system and oral manifestations of inflammatory bowel disease: a review.
+PMID,PMID:28042206,5,16,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.72e-14,4.61e-09,"(2016) Increased IL17A, IFNG, and FOXP3 Transcripts in Moderate-Severe Psoriasis: A Major Influence Exerted by IL17A in Disease Severity."
+PMID,PMID:25965695,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2015) Resveratrol ameliorates imiquimod-induced psoriasis-like skin inflammation in mice.
+PMID,PMID:26716014,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2015) The Role of Gelatinases in Campylobacter Jejuni Infection of Gnotobiotic Mice.
+PMID,PMID:24860792,5,16,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.72e-14,4.61e-09,(2014) Deletion of relA abrogates the capacity of Mycobacterium avium paratuberculosis to establish an infection in calves.
+PMID,PMID:23429356,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,"(2013) Inherited IL-12p40 deficiency: genetic, immunologic, and clinical features of 49 patients from 30 kindreds."
+PMID,PMID:23474106,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2013) Detection of TCD4+ subsets in human carotid atheroma.
+PMID,PMID:23586026,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,"(2013) Cratylia mollis 1, 4 lectin: a new biotechnological tool in IL-6, IL-17A, IL-22, and IL-23 induction and generation of immunological memory."
+PMID,PMID:23922820,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2013) Clostridium difficile modulates host innate immunity via toxin-independent and dependent mechanism(s).
+PMID,PMID:24040208,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2013) Identification of potential cytokine pathways for therapeutic intervention in murine primary biliary cirrhosis.
+PMID,PMID:24238108,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,"(2013) IL-23 induces IL-22 and IL-17 production in response to Chlamydia muridarum genital tract infection, but the absence of these cytokines does not influence disease pathogenesis."
+PMID,PMID:22101830,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,(2012) IL-23-dependent IL-17 drives Th1-cell responses following Mycobacterium bovis BCG vaccination.
+PMID,PMID:22479554,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2012) A cell permeable peptide inhibitor of NFAT inhibits macrophage cytokine expression and ameliorates experimental colitis.
+PMID,PMID:22566937,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2012) IL-23 Contributes to Control of Chronic Helicobacter Pylori Infection and the Development of T Helper Responses in a Mouse Model.
+PMID,PMID:22675328,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,(2012) The role of Th cell subsets in the control of Helicobacter infections and in T cell-driven gastric immunopathology.
+PMID,PMID:22754278,5,18,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.85e-14,4.61e-09,(2012) Ustekinumab in psoriasis immunopathology with emphasis on the Th17-IL23 axis: a primer.
+PMID,PMID:22993206,5,16,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.72e-14,4.61e-09,(2012) Th17 cells upregulate polymeric Ig receptor and intestinal IgA and contribute to intestinal homeostasis.
+PMID,PMID:23205338,5,15,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.31e-14,4.61e-09,(2012) Emerging therapies for the treatment of psoriasis.
+PMID,PMID:23236476,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(2012) Th22 cells as well as Th17 cells expand differentially in patients with early-stage and late-stage myelodysplastic syndrome.
+PMID,PMID:21307291,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(2011) Muramyl dipeptide induces Th17 polarization through activation of endothelial cells.
+PMID,PMID:21565243,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(2011) Evaluation of two mutants of Mycobacterium avium subsp. paratuberculosis as candidates for a live attenuated vaccine for Johnes disease.
+PMID,PMID:21683614,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(2011) beta2-Adrenergic agonists bias TLR-2 and NOD2 activated dendritic cells towards inducing an IL-17 immune response.
+PMID,PMID:19357708,5,19,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",3.6e-14,4.61e-09,(2009) Inflammatory skin disease in K5.hTGF-beta1 transgenic mice is not dependent on the IL-23Th17 inflammatory pathway.
+PMID,PMID:19380813,5,14,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",9.85e-15,4.61e-09,(2009) Gastrointestinal nematode infection exacerbates malaria-induced liver pathology.
+PMID,PMID:19995958,5,20,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",4.5e-14,4.61e-09,(2009) Interleukin (IL)-23 mediates Toxoplasma gondii-induced immunopathology in the gut via matrixmetalloproteinase-2 and IL-22 but independent of IL-17.
+PMID,PMID:20017902,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(2009) Interleukin-23 is critical for full-blown expression of a non-autoimmune destructive arthritis and regulates interleukin-17A and RORgammat in gammadelta T cells.
+PMID,PMID:26082945,5,17,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",2.23e-14,4.61e-09,(....) Role of T Follicular Helper cells in Multiple Sclerosis.
+PMID,PMID:37873395,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2023) Microbiota-dependent indole production is required for the development of collagen-induced arthritis.
+PMID,PMID:35637050,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2022) Stem cell therapy as a potential treatment option for psoriasis.
+PMID,PMID:33471872,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,"(2021) Colonic mucosal and cytobrush sample cytokine mRNA expression in canine inflammatory bowel disease and their correlation with disease activity, endoscopic and histopathologic score."
+PMID,PMID:33732234,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2021) S-Layer From Lactobacillus brevis Modulates Antigen-Presenting Cell Functions via the Mincle-Syk-Card9 Axis.
+PMID,PMID:34011674,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2021) Guselkumab induces robust reduction in acute phase proteins and type 17 effector cytokines in active psoriatic arthritis: results from phase 3 trials.
+PMID,PMID:31572375,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2019) Tbet Expression in Regulatory T Cells Is Required to Initiate Th1-Mediated Colitis.
+PMID,PMID:28301515,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,"(2017) IL-22, GM-CSF and IL-17 in peripheral CD4+ T cell subpopulations during multiple sclerosis relapses and remission. Impact of corticosteroid therapy."
+PMID,PMID:28488248,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2017) Response to Treatment with TNFalpha Inhibitors in Rheumatoid Arthritis Is Associated with High Levels of GM-CSF and GM-CSF(+) T Lymphocytes.
+PMID,PMID:28546563,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2017) Microbiota in T-cell homeostasis and inflammatory diseases.
+PMID,PMID:22493730,5,21,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",5.57e-14,4.78e-09,(2012) Apilimod inhibits the production of IL-12 and IL-23 and reduces dendritic cell infiltration in psoriasis.
+PMID,PMID:34945130,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,"(2021) An Analysis of IL-10, IL-17A, IL-17RA, IL-23A and IL-23R Expression and Their Correlation with Clinical Course in Patients with Psoriasis."
+PMID,PMID:29980703,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,(2018) Naturally derived Heme-Oxygenase 1 inducers attenuate inflammatory responses in human dendritic cells and T cells: relevance for psoriasis treatment.
+PMID,PMID:30038617,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,"(2018) The Initiation, but Not the Persistence, of Experimental Spondyloarthritis Is Dependent on Interleukin-23 Signaling."
+PMID,PMID:30088369,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,(2018) Two-Track Medical Treatment Strategy According to the Clinical Scoring System for Chronic Rhinosinusitis.
+PMID,PMID:29387588,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,(2015) Update on the treatment of psoriasis and psoriatic arthritis - role of apremilast.
+PMID,PMID:24068935,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,(2013) Epstein Barr virus-induced 3 (EBI3) together with IL-12 negatively regulates T helper 17-mediated immunity to Listeria monocytogenes infection.
+PMID,PMID:22532156,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,(2012) The immunobiology of colitis and cholangitis in interleukin-23p19 and interleukin-17A deleted dominant negative form of transforming growth factor beta receptor type II mice.
+PMID,PMID:19714651,5,22,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",6.84e-14,5.02e-09,(2009) HLA-B27 misfolding and the unfolded protein response augment interleukin-23 production and are associated with Th17 activation in transgenic rats.
+PMID,PMID:35219333,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2022) Plasma interleukin-23 and circulating IL-17A(+)IFNgamma(+) ex-Th17 cells predict opposing outcomes of anti-TNF therapy in rheumatoid arthritis.
+PMID,PMID:32456211,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2020) Exacerbated Imiquimod-Induced Psoriasis-Like Skin Inflammation in IRF5-Deficient Mice.
+PMID,PMID:28513594,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2018) Regionally compartmentalized resident memory T cells mediate naturally acquired protection against pneumococcal pneumonia.
+PMID,PMID:28003381,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2017) IL-23 Inhibits Melanoma Development by Augmenting DNA Repair and Modulating T Cell Subpopulations.
+PMID,PMID:28794550,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,"(2017) Propionibacterium acnes and the Th1Th17 Axis, Implications in Acne Pathogenesis and Treatment."
+PMID,PMID:28850053,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2017) IL-23 and Th17 Disease in Inflammatory Arthritis.
+PMID,PMID:24975876,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,"(2014) Cytokine gene expression profiles during initiation, progression and resolution of periodontitis."
+PMID,PMID:25120947,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2014) Assessment of the effect of Schistosoma haematobium co infection on malaria parasites and immune responses in rural populations in Gabon: study protocol.
+PMID,PMID:25386143,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2014) Interleukin-12 family cytokines and sarcoidosis.
+PMID,PMID:21052539,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2011) IL-12 and related cytokines: function and regulatory implications in Candida albicans infection.
+PMID,PMID:20473158,5,23,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",8.32e-14,5.49e-09,(2010) Proinflammatory cytokines underlying the inflammation of Crohns disease.
+PMID,PMID:29848778,5,24,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.01e-13,5.81e-09,(2019) Expansion of IL-23 receptor bearing TNFR2+ T cells is associated with molecular resistance to anti-TNF therapy in Crohns disease.
+PMID,PMID:25761673,5,24,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.01e-13,5.81e-09,(2015) IL-23-mediated mononuclear phagocyte crosstalk protects mice from Citrobacter rodentium-induced colon immunopathology.
+PMID,PMID:26691862,5,24,9606,"IFNG,IL12B,IL10,IL22,IL17A","IFNG,IL12B,IL10,IL22,IL17A",1.01e-13,5.81e-09,(2015) IMQ Induced K14-VEGF Mouse: A Stable and Long-Term Mouse Model of Psoriasis-Like Inflammation.
+PMID,PMID:27471723,5,24,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.01e-13,5.81e-09,(2015) Current perspective on the role of the interleukin-23interleukin-17 axis in inflammation and disease (chronic arthritis and psoriasis).
+PMID,PMID:22560973,5,24,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.01e-13,5.81e-09,(2012) Porphyromonas gingivalis promotes Th17 inducing pathways in chronic periodontitis.
+PMID,PMID:37764937,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,(2023) Modulation of Macrophage Redox and Apoptotic Processes to Leishmania infantum during Coinfection with the Tick-Borne Bacteria Borrelia burgdorferi.
+PMID,PMID:33539767,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,(2021) Adherent-invasive E. coli metabolism of propanediol in Crohns disease regulates phagocytes to drive intestinal inflammation.
+PMID,PMID:32022950,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,(2020) The role of the interleukin-23Th17 pathway in cardiometabolic comorbidity associated with psoriasis.
+PMID,PMID:33488580,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,(2020) IL-23 Contributes to Campylobacter jejuni-Induced Intestinal Pathology via Promoting IL-17 and IFNgamma Responses by Innate Lymphoid Cells.
+PMID,PMID:30657173,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,"(2019) The anti-inflammatory potency of biologics targeting tumour necrosis factor-alpha, interleukin (IL)-17A, IL-1223 and CD20 in hidradenitis suppurativa: an ex vivo study."
+PMID,PMID:28468850,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,"(2017) Temporal and regional intestinal changes in permeability, tight junction, and cytokine gene expression following ovariectomy-induced estrogen deficiency."
+PMID,PMID:28678161,5,25,9606,"IL23A,IFNG,IL10,IL22,IL17A","IL23A,IFNG,IL10,IL22,IL17A",1.21e-13,6.6e-09,(2017) T Helper 17 Cells in Primary Sjoegrens Syndrome.
+RCTM,HSA-447115,5,56,9606,"IL23A,IFNG,IL12B,IL12A,IL10","IL23A,IFNG,IL12B,IL12A,IL10",5.02e-12,8.24e-09,Interleukin-12 family signaling
+RCTM,HSA-449147,7,453,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",3.61e-12,8.24e-09,Signaling by Interleukins
+RCTM,HSA-6785807,5,107,9606,"IL23A,IL12B,IL12A,IL10,IL17A","IL23A,IL12B,IL12A,IL10,IL17A",1.13e-10,6.44e-08,Interleukin-4 and Interleukin-13 signaling
+RCTM,HSA-9020591,4,46,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",1.28e-09,5.83e-07,Interleukin-12 signaling
+RCTM,HSA-6783783,3,45,9606,"IL12B,IL12A,IL10","IL12B,IL12A,IL10",4.71e-07,0.00015,Interleukin-10 signaling
+RCTM,HSA-9020933,2,9,9606,"IL23A,IL12B","IL23A,IL12B",5.94e-06,0.0017,Interleukin-23 signaling
+RCTM,HSA-8950505,2,37,9606,"IFNG,IL10","IFNG,IL10",7.96e-05,0.0202,Gene and protein expression by JAK-STAT signaling after Interleukin-12 stimulation
+WikiPathways,WP3893,6,32,9606,"IL23A,IFNG,IL12B,IL12A,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL22,IL17A",2.37e-16,1.85e-13,Development and heterogeneity of the ILC family
+WikiPathways,WP5095,7,126,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",5.44e-16,2.12e-13,Overview of proinflammatory and profibrotic mediators
+WikiPathways,WP5285,6,38,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL17A",6.07e-16,2.12e-13,Immune infiltration in pancreatic cancer
+WikiPathways,WP2328,6,88,9606,"IFNG,IL12B,IL12A,IL10,IL22,IL17A","IFNG,IL12B,IL12A,IL10,IL22,IL17A",6.99e-14,1.36e-11,Allograft rejection
+WikiPathways,WP5198,5,43,9606,"IL23A,IFNG,IL12A,IL10,IL22","IL23A,IFNG,IL12A,IL10,IL22",1.45e-12,2.26e-10,Inflammatory bowel disease signaling
+WikiPathways,WP5098,5,88,9606,"IL23A,IFNG,IL12B,IL12A,IL17A","IL23A,IFNG,IL12B,IL12A,IL17A",4.38e-11,5.7e-09,T-cell activation SARS-CoV-2
+WikiPathways,WP5115,5,218,9606,"IFNG,IL12A,IL10,IL22,IL17A","IFNG,IL12A,IL10,IL22,IL17A",3.66e-09,4.08e-07,Network map of SARS-CoV-2 signaling pathway
+WikiPathways,WP5130,4,69,9606,"IL23A,IFNG,IL22,IL17A","IL23A,IFNG,IL22,IL17A",6.01e-09,5.87e-07,Th17 cell differentiation pathway
+WikiPathways,WP4298,4,85,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",1.35e-08,1.17e-06,Acute viral myocarditis
+WikiPathways,WP4484,3,13,9606,"IFNG,IL12A,IL10","IFNG,IL12A,IL10",1.53e-08,1.2e-06,Control of immune tolerance by vasoactive intestinal peptide
+WikiPathways,WP5083,4,140,9606,"IFNG,IL12B,IL12A,IL10","IFNG,IL12B,IL12A,IL10",9.41e-08,6.68e-06,Neuroinflammation and glutamatergic signaling
+WikiPathways,WP530,3,26,9606,"IFNG,IL12B,IL10","IFNG,IL12B,IL10",9.99e-08,6.68e-06,Cytokines and inflammatory response
+WikiPathways,WP4494,3,29,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",1.36e-07,8.14e-06,Selective expression of chemokine receptors during T-cell polarization
+WikiPathways,WP5088,3,32,9606,"IFNG,IL12A,IL17A","IFNG,IL12A,IL17A",1.79e-07,9.97e-06,Prostaglandin signaling
+WikiPathways,WP2873,3,45,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",4.71e-07,2.45e-05,Aryl hydrocarbon receptor pathway
+WikiPathways,WP5218,3,72,9606,"IFNG,IL12A,IL10","IFNG,IL12A,IL10",1.83e-06,8.95e-05,Extrafollicular and follicular B cell activation by SARS-CoV-2
+WikiPathways,WP5174,2,18,9606,"IFNG,IL10","IFNG,IL10",2.05e-05,0.00094,Ulcerative colitis signaling
+WikiPathways,WP4141,2,21,9606,"IL12A,IL10","IL12A,IL10",2.73e-05,0.0012,PI3K/AKT/mTOR - vitamin D3 signaling
+WikiPathways,WP4481,2,33,9606,"IL12B,IL12A","IL12B,IL12A",6.4e-05,0.0026,Resistin as a regulator of inflammation
+WikiPathways,WP4754,3,271,9606,"IFNG,IL12B,IL10","IFNG,IL12B,IL10",8.93e-05,0.0035,IL-18 signaling pathway
+WikiPathways,WP2882,3,312,9606,"IFNG,IL12B,IL12A","IFNG,IL12B,IL12A",0.00014,0.005,Nuclear receptors meta-pathway
+WikiPathways,WP3863,2,62,9606,"IFNG,IL10","IFNG,IL10",0.00022,0.0077,T-cell antigen receptor (TCR) pathway during Staphylococcus aureus infection
+WikiPathways,WP75,2,102,9606,"IL12B,IL12A","IL12B,IL12A",0.00057,0.0193,Toll-like receptor signaling pathway
+WikiPathways,WP4630,2,135,9606,"IL12B,IL12A","IL12B,IL12A",0.00098,0.032,Measles virus infection
+NetworkNeighborAL,CL:15940,7,138,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A","IL23A,IFNG,IL12B,IL12A,IL10,IL22,IL17A",1.01e-15,4.62e-12,"JAK-STAT signaling pathway, and Interleukin-1 family"
+NetworkNeighborAL,CL:15943,6,98,9606,"IL23A,IFNG,IL12B,IL12A,IL10,IL22","IL23A,IFNG,IL12B,IL12A,IL10,IL22",1.3e-13,1.98e-10,JAK-STAT signaling pathway
+NetworkNeighborAL,CL:16115,3,12,9606,"IL23A,IL12B,IL12A","IL23A,IL12B,IL12A",1.25e-08,1.14e-05,"Positive regulation of NK T cell proliferation, and interleukin-27 receptor binding"
+NetworkNeighborAL,CL:15944,3,73,9606,"IFNG,IL10,IL22","IFNG,IL10,IL22",1.91e-06,0.0012,JAK-STAT signaling pathway
+NetworkNeighborAL,CL:16017,2,12,9606,"IFNG,IL10","IFNG,IL10",9.82e-06,0.0056,"Mixed, incl. Type III interferon signaling pathway, and Interferon receptor activity"
